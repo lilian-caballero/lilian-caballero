@@ -1,6 +1,6 @@
 ## 👩‍💻 About me
 
-- 💼 Working as mid-level fullstack developer at AGTech Agrotecnologia
+- 💼 Working as a fullstack developer at Field Control
 - ⏳ 3+ years of experience as a fullstack developer 
 - 👩‍🎓 Graduating in Business Informatics
 
