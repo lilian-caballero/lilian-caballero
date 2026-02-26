@@ -1,5 +1,4 @@
 🇧🇷 [Leia em português](#português)  
-🇺🇸 [Read in English](#english)
 
 ---
 # English
