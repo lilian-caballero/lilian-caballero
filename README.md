@@ -1,6 +1,6 @@
 ## 👩‍💻 About me
 
-- 💼 Working as a fullstack developer at Field Control
+- 💼 Working as a fullstack web developer at Field Control
 - ⏳ 3.5+ years of experience as a fullstack developer 
 - 👩‍🎓 Graduating in Business Informatics
 
@@ -8,12 +8,13 @@
   
 **🤖 Technologies**
 
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=D4D6E7)
-![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=DD0031)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=lightblue)
 ![Node.js](https://img.shields.io/badge/-Node.JS-333333?style=flat&logo=node.js&logoColor=lightgreen)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=D4D6E7)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=FF7518)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=72c8df)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=lightblue)
 
 **🛠️ Tools**
