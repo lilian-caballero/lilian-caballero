@@ -1,7 +1,7 @@
 ## 👩‍💻 About me
 
 - 💼 Working as a fullstack developer at Field Control
-- ⏳ 3+ years of experience as a fullstack developer 
+- ⏳ 3.5+ years of experience as a fullstack developer 
 - 👩‍🎓 Graduating in Business Informatics
 
 ## 🚀 Skills
