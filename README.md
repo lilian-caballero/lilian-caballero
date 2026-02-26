@@ -81,9 +81,8 @@
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBpZD0iZjQzMzc1MDYtNWQ5NS00ZTgwLWI3Y2EtNjg0OThjNmUwMDhlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgdmlld0JveD0iMCAwIDE4IDE4Ij48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImJhNDIwMjc3LTcwMGUtNDJjYy05ZGU5LTUzODhhNWMxNmU1NCIgeDE9IjkiIHkxPSIxNi45NyIgeDI9IjkiIHkyPSIxLjAzIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMDA3OGQ0IiAvPjxzdG9wIG9mZnNldD0iMC4xNiIgc3RvcC1jb2xvcj0iIzEzODBkYSIgLz48c3RvcCBvZmZzZXQ9IjAuNTMiIHN0b3AtY29sb3I9IiMzYzkxZTUiIC8+PHN0b3Agb2Zmc2V0PSIwLjgyIiBzdG9wLWNvbG9yPSIjNTU5Y2VjIiAvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzVlYTBlZiIgLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48dGl0bGU+SWNvbi1kZXZvcHMtMjYxPC90aXRsZT48cGF0aCBpZD0iYTkxZjBjYTQtOGZiNy00MDE5LTljMDktMGE1MmUyYzA1NzU0IiBkPSJNMTcsNHY5Ljc0bC00LDMuMjgtNi4yLTIuMjZWMTdMMy4yOSwxMi40MWwxMC4yMy44VjQuNDRabS0zLjQxLjQ5TDcuODUsMVYzLjI5TDIuNTgsNC44NCwxLDYuODd2NC42MWwyLjI2LDFWNi41N1oiIGZpbGw9InVybCgjYmE0MjAyNzctNzAwZS00MmNjLTlkZTktNTM4OGE1YzE2ZTU0KSIgLz48L3N2Zz4=)
 
  **🌐 Idiomas**
- 
-![Inglês](https://img.shields.io/badge/🇺🇸%20English-333333?style=flat)
-![Português](https://img.shields.io/badge/🇧🇷%20Portuguese-333333?style=flat)
+![Português](https://img.shields.io/badge/🇧🇷%20Português-333333?style=flat)
+![Inglês](https://img.shields.io/badge/🇺🇸%20Inglês-333333?style=flat)
 
 ## ✉️ Redes sociais
 > 💡 Dica rápida: Quer conferir minhas redes sociais sem sair desta página? É só segurar `Ctrl` (ou `Cmd` no Mac) e clicar no link!
