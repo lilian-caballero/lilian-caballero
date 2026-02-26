@@ -1,6 +1,5 @@
 🇧🇷 [Leia em português](#português)  
 
----
 # English
 ## 👩‍💻 About me
 
