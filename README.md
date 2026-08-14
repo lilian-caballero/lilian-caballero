@@ -4,7 +4,8 @@
 ## 👩‍💻 About me
 
 - 💼 Working as a fullstack web developer at Field Control
-- ⏳ 3.5+ years of experience as a fullstack developer 
+- 🐛 Mainly working on software sustentation and bug fixing, alongside feature development and general fullstack maintenance
+- ⏳ 4+ years of experience as a fullstack developer
 - 👩‍🎓 Graduating in Business Informatics
 
 ## 🚀 Skills
@@ -55,7 +56,8 @@
 ## 👩‍💻 Sobre mim
 
 - 💼 Trabalhando como desenvolvedora web fullstack na Field Control
-- ⏳ 3.5+ anos de experiência como desenvolvedora web fullstack
+- 🐛 Atualmente focada em sustentação de software e correção de bugs, com experiência prática em toda a stack
+- ⏳ 4+ anos de experiência como desenvolvedora web fullstack
 - 👩‍🎓 Graduanda em Informática para Negócios
 
 ## 🚀 Competências
